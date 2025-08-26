@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/kelvinbuz" width="120" alt="Kelvin Buz Profile"/>
+</p>
+
 # 👋 Hi, I'm Kelvin!
 
 ### Website Developer | Computer Hardware Specialist | Network Administrator | Graphic Designer
@@ -6,7 +10,7 @@
 
 #### 🚀 About Me
 
-I'm a passionate tech enthusiast with a diverse background in website development, computer hardware, network administration, and graphic design. I thrive on creating innovative solutions—whether that's building visually appealing websites, optimizing network performance, or designing graphics that stand out.
+I'm a passionate tech enthusiast with a diverse background in website development, computer hardware, network administration, and graphic design. I thrive on creating innovative solutions—whether th[...]
 
 #### 🛠️ Skills
 
@@ -18,10 +22,10 @@ I'm a passionate tech enthusiast with a diverse background in website developmen
 #### 💼 Featured Projects
 
 **Dripyard — E-Commerce for Men's Clothing**  
-Currently building an online store, Dripyard, dedicated to men's fashion. My goal is to deliver a seamless shopping experience with stylish design and robust functionality. Stay tuned for updates as the project evolves!
+Currently building an online store, Dripyard, dedicated to men's fashion. My goal is to deliver a seamless shopping experience with stylish design and robust functionality. Stay tuned for updates as t[...]
 
 **Student Internship Platform**  
-Developing a web-based platform that helps students easily find company internships relevant to their field of study. This project aims to bridge the gap between students and companies, making internship discovery simple and accessible.
+Developing a web-based platform that helps students easily find company internships relevant to their field of study. This project aims to bridge the gap between students and companies, making interns[...]
 
 #### 🌱 Always Learning
 
