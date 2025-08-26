@@ -14,7 +14,7 @@ I'm a passionate tech enthusiast with a diverse background in website developmen
 
 #### 🛠️ Skills
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap
 - **Programming Languages:** C++, Java, Python
 - **IT & Networking:** Computer hardware troubleshooting, network setup & administration
 - **Design:** Graphic design for web and print
