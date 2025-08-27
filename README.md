@@ -39,7 +39,6 @@ Currently, I'm not active on social media. Stay tuned for updates!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinbuz&show_icons=true&locale=en" alt="kelvinbuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinbuz&" alt="kelvinbuz" /></p>
 
 
 #### ⚡ Fun Fact
