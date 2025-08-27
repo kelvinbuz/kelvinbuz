@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/kelvinbuz" width="120" alt="Kelvin Buz Profile"/>
-</p>
-
 # 👋 Hi, I'm Kelvin!
 
 ### Website Developer | Computer Hardware Specialist | Network Administrator | Graphic Designer
