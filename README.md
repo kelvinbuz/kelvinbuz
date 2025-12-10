@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelvin!
 
-### Website Developer | Computer Hardware Specialist | Network Administrator | Graphic Designer
+### A Full Stack Website Developer | Computer Hardware Specialist | Network Administrator | Graphic Designer
 
 ---
 
@@ -10,14 +10,14 @@ I'm a passionate tech enthusiast with a diverse background in website developmen
 
 #### 🛠️ Skills
 
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind
 - **Programming Languages:** C++, Java, Python
 - **IT & Networking:** Computer hardware troubleshooting, network setup & administration
 - **Design:** Graphic design for web and print
 
 #### 💼 Featured Projects
 
-**Dripyard — E-Commerce for Men's Clothing**  
+**Dripyard — E-Commerce for a Clothing brand**  
 Currently building an online store, Dripyard, dedicated to men's fashion. My goal is to deliver a seamless shopping experience with stylish design and robust functionality. Stay tuned for updates as t[...]
 
 **Student Internship Platform**  
