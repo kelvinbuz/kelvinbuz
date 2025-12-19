@@ -1,47 +1,142 @@
-# 👋 Hi, I'm Kelvin!
+# 👋 Hi there, I’m Kelvin Nii Amu Okai (Klyvin)
 
-### A Full Stack Website Developer | Computer Hardware Specialist | Network Administrator | Graphic Designer
-
----
-
-#### 🚀 About Me
-
-I'm a passionate tech enthusiast with a diverse background in website development, computer hardware, network administration, and graphic design. I thrive on creating innovative solutions—whether th[...]
-
-#### 🛠️ Skills
-
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind
-- **Programming Languages:** C++, Java, Python
-- **IT & Networking:** Computer hardware troubleshooting, network setup & administration
-- **Design:** Graphic design for web and print
-
-#### 💼 Featured Projects
-
-**Dripyard — E-Commerce for a Clothing brand**  
-Currently building an online store, Dripyard, dedicated to men's fashion. My goal is to deliver a seamless shopping experience with stylish design and robust functionality. Stay tuned for updates as t[...]
-
-**Student Internship Platform**  
-Developing a web-based platform that helps students easily find company internships relevant to their field of study. This project aims to bridge the gap between students and companies, making interns[...]
-
-#### 🌱 Always Learning
-
-I'm always exploring new technologies—whether it's mastering a new language, optimizing networks, or experimenting with design trends.
-
-<!--
-#### 📫 Connect with Me
-
-Currently, I'm not active on social media. Stay tuned for updates!
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-
-#### ⚡ Fun Fact
-
-I love blending creativity with logic—whether it's coding, configuring hardware, or designing graphics, I thrive on turning ideas into reality!
+🚀 **Full-Stack Developer & Cisco Certified Networking Professional**  
+🌍 Ghana 🇬🇭  
+💡 *Building scalable web apps & reliable networks*
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and follow my journey.
+## 🧠 About Me
+
+I’m **Kelvin (Klyvin)**, a passionate **Full-Stack Developer** and an aspiring **Cisco Certified Networking Professional** with a strong interest in **AI-powered systems**.
+
+🎓 I’m currently a **student at Accra Technical University** and also **self-taught**, constantly learning by building real-world projects that solve meaningful problems.
+
+I love combining **software engineering** and **networking** to design systems that are not only functional, but **secure, scalable, and intelligent**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+- 🧱 HTML5  
+- 🎨 CSS3  
+- 🅱️ Bootstrap  
+- 🌬️ Tailwind CSS  
+- ⚡ JavaScript  
+- ⚛️ React
+
+---
+
+### 🔧 Backend Development
+- 🐘 PHP  
+- 🐍 Python  
+- 🌐 Django  
+- 💻 C++  
+- ☕ Java
+
+---
+
+### 🗄️ Databases
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+
+---
+
+### ⚙️ Tools & Platforms
+- 🔧 Git & GitHub  
+- 🖥️ VS Code  
+- 🌊 Windsurf  
+- 🤖 ChatGPT  
+- ✨ Gemini  
+
+---
+
+## 🌐 Networking (Cisco)
+
+🎯 **CCNA – In Progress** *(Completion: Next Month)*
+
+**Skills & Experience:**
+- 🏠 Home & Office LAN Setup  
+- 🔌 Network Cabling & Device Configuration  
+- 📡 Basic Routing & Switching  
+- 🔐 Network Fundamentals & Security Concepts  
+
+---
+
+## 📜 Certifications
+
+✅ **CTVET – Computer Hardware & Networking**  
+🟡 **Cisco CCNA** *(In Progress)*  
+🟢 **Full-Stack Developer Certification*
+
+---
+
+## 🚀 Featured Projects (AI-Integrated)
+
+### 🛒 **Klyshop** — E-Commerce Platform
+🧠 AI-powered product recommendations and smart management  
+🛠️ *PHP, React, Tailwind, Bootstrap, MySQL, Python, Django*  
+🔗 **GitHub Link:** _Coming Soon_
+
+---
+
+### 🏥 **Klycare** — Hospital Management System
+🧠 Intelligent patient and hospital workflow automation  
+🛠️ *PHP, React, Bootstrap, MySQL, Python, Django*  
+🔗 **GitHub Link:** _Coming Soon_
+
+---
+
+### 🏨 **KlyInn** — Hotel Management System
+🧠 AI-assisted booking and operations management  
+🛠️ *PHP, React, Tailwind, MySQL, Python, Django*  
+🔗 **GitHub Link:** _Coming Soon_
+
+---
+
+## 🌱 Currently Exploring
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Smart system automation
+- 🔐 Secure & scalable architectures
+
+---
+
+## 🤝 Open To Opportunities
+
+I’m open to:
+- 🎓 Internships  
+- 💼 Junior Developer Roles  
+- 🧑‍💻 Freelance Projects  
+- 🌍 Open-Source Contributions  
+
+**Industries:** All tech-driven industries 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klyvin&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=klyvin&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klyvin&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+
+📧 **Email:** kelvinokai.business@gmail.com  
+🌐 **Portfolio:** [www.klyvin.com](https://www.klyvin.com)  
+💼 **LinkedIn:** @klyvin  
+🎥 **TikTok:** @klyvin_dev  
+📸 **Instagram:** @klyvin  
+
+---
+
+## ✨ Fun Fact
+
+> “I don’t just build software — I build **systems that think, scale, and connect**.”
+
+---
+
+⭐ If you like my work, consider giving my repositories a star!
