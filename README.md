@@ -82,13 +82,6 @@ I love combining **software engineering** and **networking** to design systems t
 
 ---
 
-### 🏥 **Klycare** — Hospital Management System
-🧠 Intelligent patient and hospital workflow automation  
-🛠️ *PHP, React, Bootstrap, MySQL, Python, Django*  
-🔗 **GitHub Link:** _Coming Soon_
-
----
-
 ### 🏨 **KlyInn** — Hotel Management System
 🧠 AI-assisted booking and operations management  
 🛠️ *PHP, React, Tailwind, MySQL, Python, Django*  
